@@ -13,4 +13,8 @@ Este é um teste de MD *teste*
 ### Videos
 
 - Avatar 2 Trailler
+<<<<<<< HEAD
 - Interestelar
+=======
+- Os 3 Idiotas
+>>>>>>> origin/video-section
