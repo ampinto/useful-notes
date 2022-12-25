@@ -13,3 +13,4 @@ Este é um teste de MD *teste*
 ### Videos
 
 - Avatar 2 Trailler
+- Os 3 Idiotas
